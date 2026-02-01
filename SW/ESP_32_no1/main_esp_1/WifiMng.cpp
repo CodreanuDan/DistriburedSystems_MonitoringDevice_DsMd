@@ -7,9 +7,9 @@ Vector* knownNetworks = NULL;
 unsigned long last_check_time_ms = 0;
 
 const char* staticNetworks[][2] = {
-    {"TP-Link_47D4", "29393145"},
-    {"iPhone_Dan", "12345678"},
-    {"CDIDC", "SkodaOctavia2005"}
+    {"xxx", "xxx"},
+    {"xxx", "xxx"},
+    {"xxx", "xxx"}
 };
 
 const uint8_t NUM_STATIC_NETWORKS = sizeof(staticNetworks) / sizeof(staticNetworks[0]);
